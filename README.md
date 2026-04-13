@@ -6,6 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyze over
 🎯 **Objectives**
 
 Track key business KPIs such as revenue, profit, YOY% growth and target achievement
+
 Analyze performance across product categories and customer segments
 Monitor manager and team-level target achievements
 Identify trends and patterns over time
