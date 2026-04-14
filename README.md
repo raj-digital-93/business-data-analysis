@@ -84,6 +84,8 @@ Identified loss making categories with zero profit
 
 Furniture category contributed more sales with less profit margin
 
+Office supplies category had most products sold
+
 88% products are profitable
 
 Indication of a shift toward low-margin, high-sales products
